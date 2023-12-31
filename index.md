@@ -18,11 +18,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBubbleにハマっている。プログラミングは趣味兼仕事。
 （2024年1月2日更新）
 
+*   Qiita
+*   Facebook
+
 ## 経歴
 
 - 2016年合同会社DMM.comに入社
   - 検索エンジン、API開発など
--（社名非公開） 
+- （社名非公開） 
   - ログ基盤の開発、APIの開発など
 - 株式会社コークッキング（CTO）
   - 仕様決めからフロント/バックエンド/インフラすべて担当
@@ -49,7 +52,7 @@ Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBub
 | Ruby         | 9年  |swedish fish  nice  |
 | JavaScript   | 6年 |and plenty    nice  |
 | Node.js      | 5年 |`oreos`       hmm   |
-| PHP          | 3年 |`zoute` drop| yumm  |
+| PHP          | 3年 |`zoute` drop  yumm  |
 | HTML         | 6年 |and plenty    nice  |
 | CSS          | 6年 |`oreos`       hmm   |
 | Java         | 3年 |`zoute` drop  yumm  |
@@ -57,7 +60,37 @@ Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBub
 
 ### フレームワーク
 
+| head1        |  年数 | 備考               |
+|:-------------|:-----|:-------------------|
+| Ruby On Rails         | 9年  |swedish fish  nice  |
+| Express   | 6年 |and plenty    nice  |
+| React      | 5年 |`oreos`       hmm   |
+| Vue          | 3年 |`zoute` drop  yumm  |
+| Laravel         | 6年 |and plenty    nice  |
+| Nest          | 6年 |`oreos`       hmm   |
+
+### ノーコード
+
+| head1        |  年数 | 備考               |
+|:-------------|:-----|:-------------------|
+| Bubble         | 3ヶ月  | 業務経験あり、ECサイト、Webサイトなど  |
+| Airtable         | 6ヶ月  | 業務経験あり、簡易的なデータベースとして使用  |
+
+
 ### その他
+
+| head1        |  年数 | 備考               |
+|:-------------|:-----|:-------------------|
+| REST         | 9年  |swedish fish  nice  |
+| graphQL   | 6年 |and plenty    nice  |
+| Ansible      | 5年 |`oreos`       hmm   |
+| Docker          | 3年 |`zoute` drop  yumm  |
+| Grpc         | 6年 |and plenty    nice  |
+| Nest          | 6年 |`oreos`       hmm   |
+| ApacheSolr          | 6年 |`oreos`       hmm   |
+| ElasticSearch          | 6年 |`oreos`       hmm   |
+| AtomicDesign          | 6年 |`oreos`       hmm   |
+| Kubernetes          | 6年 |`oreos`       hmm   |
 
 
 
