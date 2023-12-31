@@ -62,12 +62,12 @@ Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBub
 
 | head1        |  年数 | 備考               |
 |:-------------|:-----|:-------------------|
-| Ruby On Rails         | 9年  |swedish fish  nice  |
-| Express   | 6年 |and plenty    nice  |
-| React      | 5年 |`oreos`       hmm   |
+| Ruby On Rails         | 6年  |swedish fish  nice  |
+| Express   | 4年 |and plenty    nice  |
+| React      | 2年 |`oreos`       hmm   |
 | Vue          | 3年 |`zoute` drop  yumm  |
-| Laravel         | 6年 |and plenty    nice  |
-| Nest          | 6年 |`oreos`       hmm   |
+| Laravel         | 3年 |and plenty    nice  |
+| Nest          | 数ヶ月 |`oreos`       hmm   |
 
 ### ノーコード
 
@@ -81,16 +81,16 @@ Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBub
 
 | head1        |  年数 | 備考               |
 |:-------------|:-----|:-------------------|
-| REST         | 9年  |swedish fish  nice  |
-| graphQL   | 6年 |and plenty    nice  |
-| Ansible      | 5年 |`oreos`       hmm   |
-| Docker          | 3年 |`zoute` drop  yumm  |
-| Grpc         | 6年 |and plenty    nice  |
-| Nest          | 6年 |`oreos`       hmm   |
-| ApacheSolr          | 6年 |`oreos`       hmm   |
-| ElasticSearch          | 6年 |`oreos`       hmm   |
-| AtomicDesign          | 6年 |`oreos`       hmm   |
-| Kubernetes          | 6年 |`oreos`       hmm   |
+| REST         | 5年  |swedish fish  nice  |
+| graphQL   | 1年 |and plenty    nice  |
+| Ansible      | 3年 |`oreos`       hmm   |
+| Docker          | 4年 |`zoute` drop  yumm  |
+| Grpc         | 3年 |and plenty    nice  |
+| Nest          | 3年 |`oreos`       hmm   |
+| ApacheSolr          | 3年 |`oreos`       hmm   |
+| ElasticSearch          | 3年 |`oreos`       hmm   |
+| AtomicDesign          | 3年 |`oreos`       hmm   |
+| Kubernetes          | 数ヶ月 |`oreos`       hmm   |
 
 
 
