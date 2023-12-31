@@ -38,16 +38,27 @@ Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBub
     - プログラミング未経験者にHTML/CSS、JavaScript、VBAなどを教える   
   - その他ECサイト、Webサイトなどの開発
 
-### Skill set
+## Skill set
 
-**言語**
+### 言語
 
-| head1        |  年数             | 備考 |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+| head1        |  年数 | 備考               |
+|:-------------|:-----|:-------------------|
+| Ruby         | 9年  |swedish fish  nice  |
+| JavaScript   | 6年 |and plenty    nice  |
+| Node.js      | 5年 |`oreos`       hmm   |
+| PHP          | 3年 |`zoute` drop| yumm  |
+| HTML         | 6年 |and plenty    nice  |
+| CSS          | 6年 |`oreos`       hmm   |
+| Java         | 3年 |`zoute` drop  yumm  |
+| Lua          | 2年 |`zoute` drop  yumm  |
+
+### フレームワーク
+
+### その他
+
+
 
 ```js
 // Javascript code with syntax highlighting.
