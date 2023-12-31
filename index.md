@@ -16,6 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 大学から上京し、大学在学時からエンジニアとして複数社で事業立ち上げを経験。
 フロント/バックエンド/インフラ全ての開発をリード経験あり。
 Ruby（Ruby on Rails）がメインだが、最近はノーコードツールBubbleにハマっている。プログラミングは趣味兼仕事。
+（2024年1月2日更新）
 
 ## 経歴
 
